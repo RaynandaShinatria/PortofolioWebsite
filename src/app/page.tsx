@@ -15,7 +15,7 @@ export default function Home() {
         Software Engineer
         </h1>
         <p className="text-white pt-10" style={{textShadow: '2px 2px 0 #000, -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000',}}>
-          "Building scalable and high-performance web solutions for your business needs."
+          &quot;Building scalable and high-performance web solutions for your business needs.&quot;
         </p>
         <Link href="#contact" scroll={true} className="mt-6 flex">
           <button className="bg-white text-black font-semibold px-6 py-2 rounded-full">Contact Me</button>
@@ -86,7 +86,7 @@ export default function Home() {
         </h1>
         <img src="/static/testimonial.webp" alt="Foto Testimoni" className="w-50 h-55 mb-6" />
         <p className="text-gray-400 mt-4">
-         "Working with Ray has been a game-changer for our team. His ability to break down complex problems and deliver clean, efficient code under tight deadlines is truly impressive. He doesn’t just write code — he engineers scalable solutions that last."
+         &quot;Working with Ray has been a game-changer for our team. His ability to break down complex problems and deliver clean, efficient code under tight deadlines is truly impressive. He doesn’t just write code — he engineers scalable solutions that last.&quot;
           <br />
           <br />
           — John Smith Thompson, Project Manager at TechNova Inc.</p>
