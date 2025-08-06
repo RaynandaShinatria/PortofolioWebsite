@@ -41,7 +41,7 @@ export default function Home() {
           <img src="/static/nodejs.webp" className="h-20" alt="Node.js" />
           <img src="/static/html.png" className="h-20" alt="HTML" />
           <img src="/static/css.png" className="h-20" alt="CSS" />
-          <img src="/static/react.png" className="h-20" alt="React" />
+          <img src="/static/React.png" className="h-20" alt="React" />
           <img src="/static/docker.png" className="h-20" alt="Docker" />
           <img src="/static/next.webp" className="h-20" alt="Next_JS" />
         </div>
