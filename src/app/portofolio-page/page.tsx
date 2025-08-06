@@ -21,7 +21,7 @@ export default function PortofolioPage() {
            <p>Using React for the front-end, I designed a responsive, intuitive UI focused on user engagement and easy navigation. On the back end, I developed RESTful APIs with Node.js and MongoDB for data management. Additionally, I integrated the platform with AWS to optimize loading times and set up a CI/CD pipeline for faster deployment and testing. I worked closely with designers and QA to address usability and accessibility standards.
            </p>
            <br/>
-           <p>The project was completed on time, leading to a 35% increase in online sales within the first three months. User feedback highlighted the site's speed and ease of use, and the client reported a substantial reduction in manual inventory management tasks.
+           <p>The project was completed on time, leading to a 35% increase in online sales within the first three months. User feedback highlighted the site&apos;s speed and ease of use, and the client reported a substantial reduction in manual inventory management tasks.
            </p>
         </div>
       </section>
