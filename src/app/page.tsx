@@ -7,7 +7,7 @@ export default function Home() {
 
       {/* Hero Section */}
       <section className="flex flex-col items-center text-center px-4 py-16 max-w-full mx-auto bg-[url('/static/software.jpg')] bg-cover bg-right-top">
-        <img src="/static/2x3.png" alt="Foto Profil" className="rounded-full mb-6 w-200 h-200" />
+        <img src="/static/2x3.png" alt="Foto Profil" className="rounded-full mb-6 w-70 h-100" />
         <h1 className="text-4xl font-bold text-white pt-5 font-serif" style={{textShadow: '2px 2px 0 #000, -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000',}}>
           Raynanda Shinatria
         </h1>
@@ -28,9 +28,9 @@ export default function Home() {
         About Me
         </h1>
         <p className="text-gray-400 mt-10">
-         I’m a passionate Software Engineer with a strong focus on building efficient, scalable, and user-friendly applications. With a background in both frontend and backend development, I enjoy solving complex problems and turning ideas into reality through clean, maintainable code.
-         Over the years, I’ve worked with various technologies including JavaScript, TypeScript, React, Node.js, and Python. I’m also experienced in working with cloud platforms like AWS and using tools such as Docker, Git, and CI/CD pipelines to ensure smooth deployment and collaboration.
-         Beyond code, I value clear communication, continuous learning, and building software that actually makes people’s lives better. Whether working independently or in a team, I always strive to deliver high-quality solutions that meet real-world needs.        </p>
+         I&apos;m a passionate Software Engineer with a strong focus on building efficient, scalable, and user-friendly applications. With a background in both frontend and backend development, I enjoy solving complex problems and turning ideas into reality through clean, maintainable code.
+         Over the years, I&apos;ve worked with various technologies including JavaScript, TypeScript, React, Node.js, and Python. I&apos;m also experienced in working with cloud platforms like AWS and using tools such as Docker, Git, and CI/CD pipelines to ensure smooth deployment and collaboration.
+         Beyond code, I value clear communication, continuous learning, and building software that actually makes people&apos;s lives better. Whether working independently or in a team, I always strive to deliver high-quality solutions that meet real-world needs.        </p>
       </section>
 
       {/* My Skill */}
